@@ -1,0 +1,6 @@
+flask
+gunicorn
+azure-storage-blob
+azure-servicebus
+azure-cosmos
+Flask-Cors
