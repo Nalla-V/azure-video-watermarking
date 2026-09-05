@@ -202,3 +202,8 @@ Each service directory holds its own `app.py` (queue listener), worker module,
 
 Full write-up, including the per-service algorithms and the architecture
 diagram: [`report.pdf`](report.pdf).
+
+## Contributor
+
+- Nallathambi Vethiappan
+- Luis Chial
